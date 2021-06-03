@@ -1,6 +1,6 @@
 - 👋 Hi, I’m frelon
 - 🎓21-year-old college student.
 - 👀 I’m interested in linux and anything about code.
-- 📫 How to reach me : jokerlee@gmail.com
+- 📫 How to reach me : jokemelee@gmail.com
 - 🐥 实际上我是一个菜鸡,对于code还只处于最最最入门的级别,没有写过啥特别牛皮的代码.
 - 🍚 我是一个干饭人!如果贵公司愿意收了我,我一定拼尽全力为贵公司~~写bug~~写代码
